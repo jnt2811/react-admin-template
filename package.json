@@ -1,6 +1,8 @@
 {
-  "name": "@jnt2811/react-template-admin",
-  "version": "0.1.2",
+  "name": "react-admin-template",
+  "version": "0.0.1",
+  "repository": "git@github.com:jnt2811/react-admin-template.git",
+  "license": "MIT",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@craco/craco": "^6.4.5",
